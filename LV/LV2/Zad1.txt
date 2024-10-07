@@ -1,0 +1,5 @@
+Koordinate:
+Tipkovnica (644, 790, 1580, 1194)	link:https://en.wikipedia.org/wiki/Musical_keyboard
+Penkalo (1300, 285, 1355, 735)		link:https://en.wikipedia.org/wiki/Slavoljub_Eduard_Penkala
+Bilježnica (1385, 40, 1820, 740)	link:https://en.wikipedia.org/wiki/Laptop
+Miš (1630, 820, 1820, 1200)		link:https://en.wikipedia.org/wiki/Mouse
