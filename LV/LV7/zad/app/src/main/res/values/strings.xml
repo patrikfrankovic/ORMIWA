@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LV7</string>
+    <string name="buttonText">Pretraži</string>
+    <string name="editText">Upiši naziv</string>
+</resources>
