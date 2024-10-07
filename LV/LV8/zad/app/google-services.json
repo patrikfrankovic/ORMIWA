@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "551496145220",
+    "project_id": "ormwalv8-frankovic",
+    "storage_bucket": "ormwalv8-frankovic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551496145220:android:81bddc055f832e35911f11",
+        "android_client_info": {
+          "package_name": "com.patrik_frankovic.lv8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551496145220-9qa7h7cngdjbkj2dstpji59m59uvl9fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7jatoo3SUV2FFMtOYJYfuKEaRUhE4H8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551496145220-9qa7h7cngdjbkj2dstpji59m59uvl9fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

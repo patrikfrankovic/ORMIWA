@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LV8_sec</string>
+    <string name="saveButtonText">Spremi</string>
+    <string name="imageUrlEditTextText">Image URL</string>
+    <string name="nameEditTextText">Person Name</string>
+    <string name="descriptionEditTextText">Person Description</string>
+
+</resources>
