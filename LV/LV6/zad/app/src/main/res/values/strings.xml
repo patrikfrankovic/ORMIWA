@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LV6</string>
+    <string name="description">Najbolji nogometaš Hrvatske nogometne reprezentacije je:</string>
+    <string name="radio1_text">Bruno Petković</string>
+    <string name="radio2_text">Mateo Kovačić</string>
+    <string name="radio3_text">Luka Modrić</string>
+    <string name="radio4_text">Borna Barišić</string>
+    <string name="save_button">Naprijed</string>
+    <string name="back_button">Natrag</string>
+    <string name="toast">Odaberite nogometaša</string>
+
+</resources>
