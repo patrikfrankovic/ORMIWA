@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "984887433930",
+    "project_id": "memories-pfrankovic",
+    "storage_bucket": "memories-pfrankovic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:984887433930:android:1a55da9b38085451147233",
+        "android_client_info": {
+          "package_name": "com.patrik_frankovic.memories"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "984887433930-fhau6vmiiprsakbsacrl94rd4ut6bht9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3vlVxlnFr72d_MG9lidjB722jjiK_MU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "984887433930-fhau6vmiiprsakbsacrl94rd4ut6bht9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

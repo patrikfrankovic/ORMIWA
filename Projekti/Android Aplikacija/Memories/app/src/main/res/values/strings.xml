@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Memories</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="alert">Jeste li sigurni da želite izbrisati ovu sliku?</string>
+    <string name="ytext">Da</string>
+    <string name="ntext">Ne</string>
+    <string name="save">Spremi promjene</string>
+    <string name="discard">Odbaci promjene</string>
+    <string name="name">Ime slike:</string>
+    <string name="description">Opis slike:</string>
+    <string name="date">Slika kreirana:</string>
+    <string name="format">Ekstenzija slike:</string>
+</resources>
