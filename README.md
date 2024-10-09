@@ -1,2 +1,2 @@
 # ORMIWA
-Repozitorij za laboratijske vježbe i projektni zadatak
+Repozitorij za laboratorijske vježbe i projektni zadatak
