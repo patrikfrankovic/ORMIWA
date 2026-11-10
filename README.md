@@ -2,7 +2,7 @@
 
 A collection of laboratory exercises and smaller projects from a web and mobile application development course. It starts with HTML/CSS assignments and progresses to Android development using Kotlin.
 
-The **Memories** Android photo application has been separated into its own repository: [Memories-Android](https://github.com/patrikfrankovic/Memories).
+The **Memories** Android photo application has been separated into its own repository: [Memories](https://github.com/patrikfrankovic/Memories).
 
 ## Technologies
 
