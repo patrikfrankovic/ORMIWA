@@ -1,0 +1,11 @@
+# Android/Gradle outputs
+.gradle/
+**/.gradle/
+.idea/
+**/.idea/
+**/build/
+**/local.properties
+**/app/google-services.json
+*.iml
+.DS_Store
+Thumbs.db
